@@ -1,0 +1,6 @@
+CHMLib version 0.40 is included as a static library. If you wish to build a 
+newer version, pull down https://github.com/jedwing/CHMLib and open the
+included Visual Studio solution. Once compiled copy libchm.lib to libchmsharp/.
+
+Make sure the build targets (release or debug) are the same for both CHMLib and
+libchmsharp.
